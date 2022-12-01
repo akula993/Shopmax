@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/0064 zinc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/009 skydash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/023 cleopatra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/065 simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/066 ioniq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/067 nubis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/068 medic-care" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/070 yavin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo/free-bundle-2022/071 soft-ui-dashboard" vcs="Git" />
+  </component>
+</project>
